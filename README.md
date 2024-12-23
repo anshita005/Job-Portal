@@ -3,3 +3,4 @@ Built a Job Portal application using React.js, where candidates can apply for jo
 
 
  
+ ![Image Alt](https://github.com/anshita005/SpendWise/blob/main/spendWise1.png)
